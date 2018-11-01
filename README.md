@@ -2,5 +2,5 @@
 Alex Checked In
 and James Checked In
 and Jack Checked In
-And Kai didn't
+And Kai Checked In
 And Sean didn't
