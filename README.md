@@ -3,5 +3,5 @@ Alex Checked In
 and James Checked In
 and Jack Checked In
 And Kai Checked In
-And Sean didn't
-DEEUUU
+And Sean Checked In
+):
